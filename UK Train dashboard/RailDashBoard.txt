@@ -1,0 +1,47 @@
+About the Project:
+This project is about mock train ticket data for National Rail in the UK, from Jan to Apr 2024, including details on the type of ticket, the date & time for each journey, the departure & arrival stations, the ticket price, and more.
+Objectives:
+•	Identify the most popular routes
+•	Determine peak travel times
+•	Analyze revenue from different ticket types & classes
+•	Diagnose on-time performance and contributing factor
+Key Metrices:
+•	Total booking
+•	Success booking
+•	On time
+•	Total Revenue
+•	Net Revenue
+•	Total Route
+•	Top 5 Popular Routes
+•	Refund Request
+•	Total Revenue by Ticket class
+•	Total Revenue by Ticket type
+•	Total Revenue by Route
+•	Peak Travel Time
+
+
+Conclusion:
+1. The most popular routes are 
+
+ Manchester Piccadilly to Liverpool Lime Street
+ London Euston to Brimingham New Street
+ London Kings to Cross York
+ London to Paddington Reading
+ London St Pancras to Brimingham New Street
+
+2. Peak Travel Time are
+ 6.30AM to 7:50AM
+ 6:45PM to 8:05PM
+
+3. Analyze revenue from different ticket types & classes
+ Standard tickets generate more revenue than First Class tickets.
+ Advance Ticket Type generated the most revenue. 
+
+4. Diagnose on-time performance and contributing factor
+ Approximately 27,000 trips, representing successful journeys on time
+ Approximately 2922 trips are delayed, and 1,880 trips cancelled.
+ So, the overall performance of the national railway is satisfactory.
+
+
+
+
